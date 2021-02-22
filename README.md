@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
+<h1 style="color=red;">hello</h1>
 - 🔭 I’m currently working on c plus plus
 - 🌱 I’m currently learning django
-<button>hi there</button>
