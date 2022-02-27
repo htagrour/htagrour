@@ -7,7 +7,6 @@
 </a>
  <a href="https://github.com/htagrour?tab=repositories">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=htagrour&line_height=40&show_icons=true&theme=dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=htagrour&theme=dark"/>
 </a>
 
 <!--
