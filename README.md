@@ -3,8 +3,8 @@
 - 🔭 I'm currently working to be a better version of myself than yesterday
 
 
- <a href="https://github.com/htagrour?tab=repositories">
- <img align="center" src="https://badge42.herokuapp.com/api/stats/htagrour">
+<!--  <a href="https://github.com/htagrour?tab=repositories">
+ <img align="center" src="https://badge42.herokuapp.com/api/stats/htagrour"> -->
 
 </a>
  <a href="https://github.com/htagrour?tab=repositories">
