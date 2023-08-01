@@ -5,11 +5,12 @@
 
 <!--  <a href="https://github.com/htagrour?tab=repositories">
  <img align="center" src="https://badge42.herokuapp.com/api/stats/htagrour"> -->
-
+<!--
 </a>
  <a href="https://github.com/htagrour?tab=repositories">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=htagrour&line_height=40&show_icons=true&theme=dark">
 </a>
+ -->
 
 <!--
 [![oel-bour's 42 stats](https://badge42.herokuapp.com/api/stats/oel-bour)](https://github.com/JaeSeoKim/badge42)
